@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AD2C83F9-D09E-4F0F-AC6E-8440759296AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrisonersDilema/Tactics/FinalBetrayal.cs">
+    <Files>
+      <File FileName="PrisonersDilema/Program.cs" Line="27" Column="46" />
+      <File FileName="PrisonersDilema/Battle.cs" Line="24" Column="68" />
+      <File FileName="PrisonersDilema/Tactics/ITactic.cs" Line="9" Column="62" />
+      <File FileName="PrisonersDilema/Tactics/Nice.cs" Line="9" Column="69" />
+      <File FileName="PrisonersDilema/Move.cs" Line="8" Column="13" />
+      <File FileName="PrisonersDilema/Tactics/TitTat.cs" Line="10" Column="69" />
+      <File FileName="PrisonersDilema/Tactics/AggressiveTitTat.cs" Line="11" Column="69" />
+      <File FileName="PrisonersDilema/TacticRegistry.cs" Line="28" Column="56" />
+      <File FileName="PrisonersDilema/Tactics/FlipFlop.cs" Line="10" Column="69" />
+      <File FileName="PrisonersDilema/Tactics/GrimThreat.cs" Line="9" Column="69" />
+      <File FileName="PrisonersDilema/Tactics/EarlyBetrayal.cs" Line="11" Column="69" />
+      <File FileName="PrisonersDilema/Tactics/Mean.cs" Line="9" Column="69" />
+      <File FileName="PrisonersDilema/Tactics/Random.cs" Line="15" Column="9" />
+      <File FileName="PrisonersDilema/Tactics/FinalBetrayal.cs" Line="2" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PrisonersDilema PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

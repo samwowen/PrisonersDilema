@@ -1,0 +1,5 @@
+/Users/SamOwen/Projects/PrisonersDilema/PrisonersDilema/bin/Debug/PrisonersDilema.exe
+/Users/SamOwen/Projects/PrisonersDilema/PrisonersDilema/bin/Debug/PrisonersDilema.pdb
+/Users/SamOwen/Projects/PrisonersDilema/PrisonersDilema/obj/x86/Debug/PrisonersDilema.csproj.CoreCompileInputs.cache
+/Users/SamOwen/Projects/PrisonersDilema/PrisonersDilema/obj/x86/Debug/PrisonersDilema.exe
+/Users/SamOwen/Projects/PrisonersDilema/PrisonersDilema/obj/x86/Debug/PrisonersDilema.pdb
