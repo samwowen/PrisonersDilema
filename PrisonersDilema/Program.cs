@@ -49,12 +49,14 @@ namespace PrisonersDilema
                 var score = 0;
                 for (int j = 0; j < noTactics; j++)
                 {
-                    print(scoreMatrix[j, i] + " ");
+                    print(scoreMatrix[j, i].ToString("0000") + " ");
                     score = score + scoreMatrix[j, i];
                 }
 
                 printl("  Total: " + score);
             }
+
+            Console.ReadKey();
         }
 
         #region Utilities
