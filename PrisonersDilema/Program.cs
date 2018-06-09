@@ -9,6 +9,7 @@ namespace PrisonersDilema
             var tactics = new TacticRegistry();
             var noTactics = tactics.Tactics.Count;
             var scoreMatrix = new int[noTactics, noTactics];
+            int fights = 1000; // Change this number to change how many times they fight each other
 
             // Do battle
             for (int i = 0; i < noTactics; i++)
@@ -24,12 +25,12 @@ namespace PrisonersDilema
                     var p2 = (ITactic)Activator.CreateInstance(t2);
                     var battle = new Battle(p1, p2);
                     //battle.debug = true;
-                    var res = battle.Fight(1000); // Change this number to change how many times they fight each other
+                    var res = battle.Fight(fights); 
                     scoreMatrix[j, i] = res.P1Total;
                     score += res.P1Total;
                 }
 
-                printl(p1.Name + " scored: " + score);
+                printl(p1.Name + " scored on average: " + score / (tactics.Tactics.Count) + " years");
             }
 
 			printl("");

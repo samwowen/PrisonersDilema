@@ -40,6 +40,8 @@ namespace PrisonersDilema
             RegisterTactic(typeof(Tactics.GrimThreat));
             RegisterTactic(typeof(Tactics.EarlyBetrayal));
             RegisterTactic(typeof(Tactics.FinalBetrayal));
+            RegisterTactic(typeof(Tactics.OccasionalForgiveness));
+            RegisterTactic(typeof(Tactics.MikesBetrayal));
         }
     }
 }
