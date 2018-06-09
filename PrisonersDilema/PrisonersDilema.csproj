@@ -47,6 +47,8 @@
     <Compile Include="Tactics\GrimThreat.cs" />
     <Compile Include="Tactics\EarlyBetrayal.cs" />
     <Compile Include="Tactics\FinalBetrayal.cs" />
+    <Compile Include="Tactics\OccasionalForgiveness.cs" />
+    <Compile Include="Tactics\MikesBetrayal.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Tactics\" />
